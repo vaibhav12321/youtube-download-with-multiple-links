@@ -1,4 +1,4 @@
-# youtube-download-with-multiple-links
+# youtube download with multiple links
 
 Use multiple links from youtube and get downloadable links.
 
